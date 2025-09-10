@@ -43,5 +43,12 @@ A **full-stack trading platform** inspired by Zerodha, built with modern web tec
 - PORT=3002
 - MONGO_URL=your_mongodb_connection_string
 
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+🤝 Contributing
+Pull requests are welcome. For major changes, open an issue first to discuss what you’d like to change.
+
+
+
 
 
