@@ -37,5 +37,11 @@ A **full-stack trading platform** inspired by Zerodha, built with modern web tec
 - dotenv for environment variables
 - Nodemon (for dev server)
 
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+## Create a .env file inside backend/:
+- PORT=3002
+- MONGO_URL=your_mongodb_connection_string
+
 
 
