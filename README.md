@@ -17,3 +17,25 @@ A **full-stack trading platform** inspired by Zerodha, built with modern web tec
 - 🌐 **RESTful APIs** – For fetching and managing trading data
 
 
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+## 🛠 Tech Stack
+### **Frontend**
+- React.js ⚛️
+- HTML5, CSS3, JavaScript
+- Bootstrap, Material UI
+- Chart.js & React-Chartjs-2
+
+### **Backend**
+- Node.js
+- Express.js
+- MongoDB with Mongoose
+
+### **DevOps / Tools**
+- Git & GitHub
+- Docker
+- dotenv for environment variables
+- Nodemon (for dev server)
+
+
+
