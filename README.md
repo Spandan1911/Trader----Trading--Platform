@@ -23,7 +23,7 @@ A **full-stack trading platform** inspired by Zerodha, built with modern web tec
 - React.js ⚛️
 - HTML5, CSS3, JavaScript
 - Bootstrap, Material UI
-- Chart.js & React-Chartjs-
+- Chart.js & React-Chartjs-2
 
 ### **Backend**
 - Node.js
