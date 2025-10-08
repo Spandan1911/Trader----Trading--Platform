@@ -15,7 +15,7 @@ A **full-stack trading platform** inspired by Zerodha, built with modern web tec
 - 🎨 **Modern UI** – Responsive, clean design with Material UI & Bootstrap
 - 🐳 **Dockerized Setup** – Easy deployment with Docker
 - 🌐 **RESTful APIs** – For fetching and managing trading data
-
+ 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ## 🛠 Tech Stack
