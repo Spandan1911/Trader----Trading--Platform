@@ -4,7 +4,7 @@ A **full-stack trading platform** inspired by Zerodha, built with modern web tec
 **Trader** provides users with an intuitive interface to track holdings, positions, funds, and watchlists, along with advanced charting and order management features.  
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
- 
+  
 ## 🚀 Features
 - 🔑 **Authentication System** – Secure login/signup with session management
 - 📊 **Holdings & Positions** – View and analyze live stock holdings and market positions
